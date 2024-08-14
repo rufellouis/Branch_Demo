@@ -4,7 +4,7 @@ import json
 
 
 def hello_world():
-    print("Hello Rufel")
+    print("Hello World")
 
 hello_world()
 
